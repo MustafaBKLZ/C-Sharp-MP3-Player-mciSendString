@@ -82,10 +82,10 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="img\C# MP3 Çalar Uygulaması - mciSendString.PNG" />
     <Content Include="img\clear_list.png" />
     <Content Include="img\next.png" />
     <Content Include="img\pause.png" />
-    <Content Include="img\play.png" />
     <Content Include="img\play2.png" />
     <Content Include="img\playlist.png" />
     <Content Include="img\prev.png" />
