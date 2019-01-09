@@ -9,3 +9,7 @@ Buradaki linkten kişisel sitemdeki tanıtım yazısına ulaşabilirsiniz.
 https://mustafabukulmez.com/2019/01/09/c-mp3-calar-uygulamasi-mcisendstring/
 
 ![My image](MustafaBKLZ.github.com/C-Sharp-MP3-Player-mciSendString/img/C# MP3 Çalar Uygulaması - mciSendString.PNG)
+
+
+        C-Sharp-MP3-Player-mciSendString/MuzikCalar/img/C# MP3 Çalar Uygulaması - mciSendString.PNG
+      
