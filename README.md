@@ -11,5 +11,8 @@ https://mustafabukulmez.com/2019/01/09/c-mp3-calar-uygulamasi-mcisendstring/
 ![My image](MustafaBKLZ.github.com/C-Sharp-MP3-Player-mciSendString/img/C# MP3 Çalar Uygulaması - mciSendString.PNG)
 
 
-        C-Sharp-MP3-Player-mciSendString/MuzikCalar/img/C# MP3 Çalar Uygulaması - mciSendString.PNG
+      
+![Alt text](https://github.com/MustafaBKLZ/C-Sharp-MP3-Player-mciSendString/blob/master/MuzikCalar/img/C%23%20MP3%20%C3%87alar%20Uygulamas%C4%B1%20-%20mciSendString.PNG?raw=true "Optional title")
+
+        
       
