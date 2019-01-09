@@ -80,8 +80,17 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="img\" />
+    <Content Include="img\clear_list.png" />
+    <Content Include="img\next.png" />
+    <Content Include="img\pause.png" />
+    <Content Include="img\play.png" />
+    <Content Include="img\play2.png" />
+    <Content Include="img\playlist.png" />
+    <Content Include="img\prev.png" />
+    <Content Include="img\random.png" />
+    <Content Include="img\stop.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
