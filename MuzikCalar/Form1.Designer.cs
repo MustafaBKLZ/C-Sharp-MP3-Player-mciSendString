@@ -1,5 +1,5 @@
 ﻿namespace MuzikCalar
-{
+{//https://mustafabukulmez.com/2019/01/09/c-mp3-calar-uygulamasi-mcisendstring/
     partial class Form1
     {
         /// <summary>
@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            //https://mustafabukulmez.com/2019/01/09/c-mp3-calar-uygulamasi-mcisendstring/
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btn_Muzik_sec = new System.Windows.Forms.Button();
@@ -560,3 +561,4 @@
     }
 }
 
+//https://mustafabukulmez.com/2019/01/09/c-mp3-calar-uygulamasi-mcisendstring/

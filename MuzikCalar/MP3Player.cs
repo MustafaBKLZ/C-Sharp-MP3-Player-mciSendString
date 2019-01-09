@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System.Text;
-
+//https://mustafabukulmez.com/2019/01/09/c-mp3-calar-uygulamasi-mcisendstring/
 namespace MuzikCalar
 {
     class MP3Player
@@ -161,6 +161,7 @@ namespace MuzikCalar
             }
         }
 
+        //https://mustafabukulmez.com/2019/01/09/c-mp3-calar-uygulamasi-mcisendstring/
 
         public TimeSpan _ts_Pozisyon;
         private double _ms_Pozisyon = 0;
@@ -238,3 +239,4 @@ namespace MuzikCalar
 
     }
 }
+//https://mustafabukulmez.com/2019/01/09/c-mp3-calar-uygulamasi-mcisendstring/
